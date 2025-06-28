@@ -11,7 +11,9 @@ AI-powered Personal Protective Equipment (PPE) detection and compliance monitori
 - Built with Ultralytics YOLOv8 and OpenCV
 
 ## 🖥️ Demo
-![Demo Screenshot](static/results/image98.jpg)
+<img width="464" alt="Screenshot 2025-06-28 221207" src="https://github.com/user-attachments/assets/a9a2b8e0-28e4-4f39-b96d-2760d5a46d23" />
+<img width="646" alt="Screenshot 2025-06-28 222355" src="https://github.com/user-attachments/assets/a72b930b-9ea5-41b9-b452-05303743313b" />
+
 
 ## 📂 Project Structure
 ```
